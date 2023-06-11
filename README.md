@@ -1,4 +1,4 @@
-# Coffee house (in development 🚧)
+# Coffee house
 ## Try it now: <a href="https://coffee-house-beta.vercel.app/">Coffee house ☕</a>
 <div>
   <img src="https://github.com/1kitten/coffee-house/blob/main/coffee-house-logo.png" width=50/>
